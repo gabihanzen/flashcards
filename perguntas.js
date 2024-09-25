@@ -1,59 +1,59 @@
 criaCartao(
-    'Título 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Conhecimento Geral',
+    'Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?',
+    'Marie Curie.'
 )
 
 criaCartao(
-    'Título 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Conhecimentos Gerais',
+    'Qual o país mais novo do mundo?',
+    'Sudão do Sul'
 )
 
 criaCartao(
-    'Título 3',
-    'Pergunta 3',
-    'Resposta 3'
+    'Conhecimentos Gerais',
+    'Quem foi a primeira mulher a se eleger presidente de um país?',
+    'Vigdís Finnbogadóttir'
 )
 
 criaCartao(
-    'Título 4',
-    'Pergunta 4',
-    'Resposta 4'
+    'Conhecimentos Gerais ',
+    ' Quem foram os primeiros escaladores a conquistar o pico do Everest?',
+    'Edmund Hillary e Tenzing Norgay'
 )
 
 criaCartao(
-    'Título 5',
-    'Pergunta 5',
-    'Resposta 5'
+    'Conhecimentos Gerais',
+    'Qual o lugar mais profundo dos oceanos?',
+    'Fossa das Marianas'
 )
 
 criaCartao(
-    'Título 6',
-    'Pergunta 6',
-    'Resposta 6'
+    'Conhecimentos Gerais',
+    'Qual o nome do evento astronômico responsável pelo dia mais longo do ano?',
+    'Solstício de verão'
 )
 
 criaCartao(
-    'Título 7',
-    'Pergunta 7',
-    'Resposta 7'
+    'Conhecimentos Gerais',
+    'Quantos pares de costelas um ser humano, normalmente, possui?',
+    '12'
 )
 
 criaCartao(
-    'Título 8',
-    'Pergunta 8',
-    'Resposta 8'
+    'Conhecimentos Gerais',
+    'Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?',
+    'Vênus e Urano'
 )
 
 criaCartao(
-    'Título 9',
-    'Pergunta 9',
-    'Resposta 9'
+    'Conhecimentos Gerais',
+    'Qual animal produz o som mais alto?',
+    'Baleia azul'
 )
 
 criaCartao(
-    'Título 10',
-    'Pergunta 10',
-    'Resposta 10'
+    'Conhecimentos Gerais',
+    'Em que ano os filmes deixaram de ser mudos?',
+    '1927'
 )
